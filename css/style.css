@@ -465,7 +465,24 @@ a:hover {
 .navbar-b.navbar-trans .nav-link:before {
   background-color: #fff;
 }
+.next {
+  text-decoration: none;
+  display: inline-block;
+  padding: 8px 16px;
+  font-size: 17px;
+  float:right;
+}
 
+#next1, #next2 {
+  background-color: #ffffff;
+  color: black;
+}
+
+
+#previous2, #next2 {
+  border-radius: 20px;
+  margin: 20px;
+}
 .navbar-b.navbar-trans .nav-link:hover {
   color: #fff;
 }
