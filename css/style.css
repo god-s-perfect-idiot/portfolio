@@ -418,6 +418,10 @@ a:hover {
   padding-left: 0;
 }
 
+.nav-2{
+  color: #000;
+}
+
 .navbar-b.navbar-trans .nav-link,
 .navbar-b.navbar-reduce .nav-link {
   color: #fff;
@@ -520,6 +524,10 @@ a:hover {
   color: #0078ff;
 }
 
+.navbar-b.navbar-reduce .navbar-brand-2 {
+  color: #0078ff;
+}
+
 .navbar-b.navbar-reduce .navbar-brand {
   color: #0078ff;
 }
@@ -530,6 +538,12 @@ a:hover {
 
 .navbar-b .navbar-brand {
   color: #fff;
+  font-size: 1.6rem;
+  font-weight: 600;
+}
+
+.navbar-b .navbar-brand-2 {
+  color: #000;
   font-size: 1.6rem;
   font-weight: 600;
 }
@@ -669,6 +683,10 @@ a:hover {
 .intro-single .intro-title {
   text-transform: uppercase;
   font-size: 3rem;
+}
+
+.top-1{
+  padding-top: 25px;
 }
 
 .intro-single .breadcrumb {
